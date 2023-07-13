@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am iOS developer
 ------------------
 * 🌍  I'm based in Moscow/Tokyo
-* ✉️  You can contact me at [slavk11@yandex.ru](mailto:slavk11@yandex.ru)
 * 🤝  I'm open to collaborating on interesting projects
 
 <p align="center">
