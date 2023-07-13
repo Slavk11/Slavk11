@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Stanislav+!;" />
 </h1>
 
-I am iOS developer
+iOS developer
 ------------------
 * 🌍  I'm based in Moscow and Tokyo
 * 🤝  I'm open to collaborating on interesting projects
