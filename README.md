@@ -2,8 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=300&color=05C077&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+page+%F0%9F%91%8B;My+name+is+Stanislav" alt="Typing SVG />
 </h1>
 
-------------------
-iOS developer
+
+### iOS developer
 ------------------
 * 🌍  I'm based in Moscow and Tokyo
 * 🤝  I'm open to collaborating on interesting projects
